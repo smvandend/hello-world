@@ -1,3 +1,6 @@
 # hello-world
-Walking through tutorial. \newline
+Walking through tutorial.
+
 This is an update - is it possible to do this in TeX so it looks better?
+
+I clearly need to relearn markup so that this looks better.
